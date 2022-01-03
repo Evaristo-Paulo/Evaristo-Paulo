@@ -3,7 +3,7 @@
 
 I'm crazy about coding, for this reason, I decided to study computer science :computer: at Agostinho Neto University :mortar_board:, in order to acquire the necessary academic knowledge and fly .. . becoming more and more a qualified professional :trophy:
 
-I work in web development, using frontend (HTML, CSS, JS), backend (PHP/Laravel, Node JS) and database technology (MySQL, Postgres). 
+I work in web development field, using frontend (HTML, CSS, JS), backend (PHP/Laravel, Node JS) and database technology (MySQL, Postgres). 
 
 ### :telephone_receiver: Contact me
 
