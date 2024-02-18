@@ -3,7 +3,12 @@
 
 I'm crazy about coding, for this reason, I decided to study computer science :computer: at Agostinho Neto University :mortar_board:, in order to acquire the necessary academic knowledge and fly .. . becoming more and more a qualified professional :trophy:
 
-I work in web development field, using frontend (HTML, CSS, JS), backend (PHP/Laravel, Node JS, Python) and database technology (MySQL, Postgres). 
+Currently I am a web developer, Primavera Technical Consultant and I've been working with technologies/programming languages such as:
+1. Frontend - Javascript, HTML, CSS
+2. Backend - PHP/Laravel, Node JS, Python 
+3. Database - Sql Server, MySQL, Postgres
+
+Getting in touch with me so we can chat 😊
 
 ###  📫 How to reach me:
 
