@@ -27,10 +27,11 @@ Currently I am a web developer and Primavera Technical Consultant. I've been wor
 
 <p>
   
+![API](https://img.shields.io/badge/api-E34F26?style=for-the-badge&logo=api&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Mysql-00599C?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-00599C?style=for-the-badge&logo=postgres&logoColor=white)
-![SQL Server](https://img.shields.io/badge/sqlserve-00599C?style=for-the-badge&logo=sqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/sqlserver-00599C?style=for-the-badge&logo=sqlserver&logoColor=white)
 
 </p>
 
