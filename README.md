@@ -3,36 +3,27 @@
 
 I'm crazy about coding, for this reason, I've decided to study computer science :computer: at Agostinho Neto University :mortar_board:, in order to acquire the necessary academic knowledge and fly .. . becoming more and more a qualified professional :trophy:
 
-Currently I am a web developer and Primavera Technical Consultant. I've been working with technologies/programming languages such as:
-1. Frontend - Javascript, HTML, CSS
-2. Backend - PHP/Laravel, Node JS, Python 
-3. Database - Sql Server, MySQL, Postgres
-
 ----
 
 ### 🚀 Skills
 <p>
   
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/Php-%23323330.svg?style=for-the-badge&logo=php&logoColor=%BBDEAD)
-![Laravel](https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
 </p>
 
 <p>
   
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![API](https://img.shields.io/badge/api-E34F26?style=for-the-badge&logo=api&logoColor=white)
-![MySQL](https://img.shields.io/badge/Mysql-00599C?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-00599C?style=for-the-badge&logo=postgres&logoColor=white)
-![SQL Server](https://img.shields.io/badge/sqlserver-00599C?style=for-the-badge&logo=sqlserver&logoColor=white)
-
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </p>
 
 ----
