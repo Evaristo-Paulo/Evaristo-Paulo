@@ -1,7 +1,7 @@
 ## :tada: Hey, peep!
 ### Let me tell you something :sunglasses:
 
-I'm crazy about coding, for this reason, I decided to study computer science :computer: at Agostinho Neto University :mortar_board:, in order to acquire the necessary academic knowledge and fly .. . becoming more and more a qualified professional :trophy:
+I'm crazy about coding, for this reason, I've decided to study computer science :computer: at Agostinho Neto University :mortar_board:, in order to acquire the necessary academic knowledge and fly .. . becoming more and more a qualified professional :trophy:
 
 Currently I am a web developer, Primavera Technical Consultant and I've been working with technologies/programming languages such as:
 1. Frontend - Javascript, HTML, CSS
